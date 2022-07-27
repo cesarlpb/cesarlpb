@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @cesarlpb
-- I work at @Meta-1-Official and @Blue-Goat-Labs
-- 👀 I’m interested in learning every day
+- 🐐 I work at @Blue-Goat-Labs
+- 👀 Every day learner
 
-- 🌱 I’m currently working on NodeJS, React and Python projects
-- Recently, I have worked in CQRS, MediatR, Clean Architecture
+- 🌱 Currently working on: `NodeJS`, `React` and `Python` projects
+- Recently, I have worked in `CQRS`, `MediatR`, `Clean Architecture`with `C#` and `.NET`
 
-- 💞️ I’m looking to collaborate on projects
+- 🧐 I’m looking to collaborate on projects
 - 📫 How to reach me: <cesarlpb@bluegoatlabs.com>
 
 <!---
