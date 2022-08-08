@@ -1,7 +1,7 @@
 # About Me 
 
 - 👋 Hi, I’m @cesarlpb
-- 🐐 I work at [www.bluegoatlabs.com](Blue Goat Labs)
+- 🐐 I work at [Blue Goat Labs](www.bluegoatlabs.com)
 - 👀 Every day learner
 
 - 🌱 Currently working on: `NodeJS`, `React` and `Python` projects
