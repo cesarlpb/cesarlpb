@@ -7,4 +7,4 @@
 | 👉 Currently (most likely) working on: `NodeJS`, `React`, `Web 3` (Brownie) and `Python` projects. My usual **stack** these days: * Blockchain developments with `Ganache`, `Hardhat` * `React JS/TS` + `Next` for front-end * `Python` `Flask/Django` for back-end * `SQL` and `Redis` * And, plenty of coffee ☕. | I have also worked with: `CQRS`, `MediatR`, `Clean Architecture`with `C#` and `.NET` * `PHP`, `Wordpress` * `Laravel` * `C++` | You may also find me on [Linkedin](https://www.linkedin.com/in/cesarlpb89/) or, the quickest way: * ✉️ **Telegram:** [@Cesarlpb](https://t.me/cesarlpb) | 
 | 🤖 `Full stack developer, blockchain consultor and AI engineer in the making` | 🧐 I’m currently looking to collaborate on more projects! | Whatsapp: Thanks, no, thanks (*if possible*). 🚫 |
 
-[![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true)](https://github.com/cesarlpb)
+[![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true&theme=dark)](https://github.com/cesarlpb)
