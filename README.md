@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
   .btn {
   background: #3498db;
@@ -26,6 +29,7 @@
   text-decoration: none;
 }
 </style>
+</head>
 # About Me 
 👋 Hi, I’m [@cesarlpb](https://github.com/cesarlpb). I code in `Typescript`, `NextJS` and like using good ol' `MySQL`. These days, I deploy apps using `Vercel`, `Axiom`, `Planetscale` and `Clerk` or `Web3Auth` for social logins. Here some info about me:
 
@@ -37,4 +41,5 @@
 
 **Co-CEO** and **CTO** @ [Blue Goat Labs](https://www.bluegoatlabs.com) 🐐
 <button class="btn">Click me</button>
-[![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true&theme=dark)](https://github.com/cesarlpb)
+[![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true&theme=dark)](https://github.com/cesarlpb)  
+</html>
