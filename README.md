@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  .btn {
+  #btn {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 
-.btn:hover {
+#btn:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
@@ -40,6 +40,6 @@
 | 🤖 `Typescript, NextJS, T3 Senior dev, blockchain consultor and dev instructor` | 🧐 Looking to collaborate on more projects? ❌ Mostly no, but I can hear ideas. | This is a blank space. |
 
 **Co-CEO** and **CTO** @ [Blue Goat Labs](https://www.bluegoatlabs.com) 🐐
-<button class="btn">Click me</button>
+<button id="btn">Click me</button>
 [![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true&theme=dark)](https://github.com/cesarlpb)  
 </html>
