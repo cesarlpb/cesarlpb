@@ -9,8 +9,8 @@
 
 **Co-CEO** and **CTO** @ [Blue Goat Labs](https://www.bluegoatlabs.com) 🐐
 
-[Click me](https://cesarlpb.com){
-  background: #3498db;
+<a 
+ style="background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
   background-image: -ms-linear-gradient(top, #3498db, #2980b9);
@@ -23,8 +23,9 @@
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
+  text-decoration: none;"
+  href="https://cesarlpb.com"     
+   >Click me</a>
 
 [![Cesarlpb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarlpb&count_private=true&show_icons=true&theme=dark)](https://github.com/cesarlpb)  
 </html>
