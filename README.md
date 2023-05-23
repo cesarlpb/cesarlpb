@@ -3,7 +3,7 @@
 
 | 💻 Work | 🐶 Interests| 📱 Contact
 |---|---|---|
-| 🐐 I work at . We develop turnkey software solutions for clients. * Our experts have experience in `full-stack dev` * `Marketing` * `Sales` * `Blockchain` and more. | 👀 Every day learner. I love coffee ☕ and teaching. | 📫 Email: <cesarlpb@bluegoatlabs.com> |
+| Working as a dev instructor | 👀 Every day learner. I love coffee ☕ and teaching. | 📫 Email: <cesarlpb@bluegoatlabs.com> |
 | 👉 Techs I use: `NodeJS`, `React`, `Web 3` (Brownie) and `Python`. My Blockchain stack: * `Ganache`, `Hardhat` * `React TS` + `Next` for front-end * `Python` `Flask/Django` for back-end * `SQL` and `Redis` | I have also worked with: `CQRS`, `MediatR`, `Clean Architecture`with `C#` and `.NET` * `PHP`, `Wordpress` * `Laravel` | My [Linkedin](https://www.linkedin.com/in/cesarlpb89/), and the quickest way: * ✉️ **Telegram:** [@Cesarlpb](https://t.me/cesarlpb) | 
 | 🤖 `Typescript, NextJS, T3 Senior dev, blockchain consultor and dev instructor` | 🧐 Looking to collaborate on more projects? ❌ Mostly no, but I can hear ideas. | This is a blank space. |
 
