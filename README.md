@@ -1,12 +1,15 @@
 # About Me 
-👋 Hi, I’m [@cesarlpb](https://github.com/cesarlpb). I code in `Typescript`, `NextJS` and like using good ol' `MySQL`. These days, I deploy apps using `Vercel`, `Axiom`, `Planetscale` and `Clerk` or `Web3Auth` for social logins. Here some info about me:
+👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). You may also find me on [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/cesarlpb89/) [![Github](github.svg)](https://github.com/cesarlpb) 
 
-| 💻 Work | 🐶 Interests| 📱 Contact
-|---|---|---|
-| Working as a dev instructor | 👀 Every day learner. I love coffee ☕ and teaching. | 📫 Email: <cesarlpb@bluegoatlabs.com> |
-| 👉 Techs I use: `NodeJS`, `React`, `Web 3` (Brownie) and `Python`. My Blockchain stack: * `Ganache`, `Hardhat` * `React TS` + `Next` for front-end * `Python` `Flask/Django` for back-end * `SQL` and `Redis` | I have also worked with: `CQRS`, `MediatR`, `Clean Architecture`with `C#` and `.NET` * `PHP`, `Wordpress` * `Laravel` | My [Linkedin](https://www.linkedin.com/in/cesarlpb89/), and the quickest way: * ✉️ **Telegram:** [@Cesarlpb](https://t.me/cesarlpb) | 
-| 🤖 `Typescript, NextJS, T3 Senior dev, blockchain consultor and dev instructor` | 🧐 Looking to collaborate on more projects? ❌ Mostly no, but I can hear ideas. | This is a blank space. |
 
-**Co-CEO** and **CTO** @ [Blue Goat Labs](https://www.bluegoatlabs.com) 🐐
+![Dev](profile.jpeg)
+I code in `Typescript`, `NextJS` and like using `MySQL` and `Postgres` for my data. I deploy apps using `Vercel`, `Axiom`, `Planetscale` and `Clerk` or `Web3Auth` for social logins.
 
-</html>
+---
+
+- Lately, mostly into `T3 stack`
+- `NodeJS`, `Django`, `Flask` for back-end 
+- `React` & `Next`, `Typescript` for front-end 
+- `SQL` and `Postgres` for db
+- Also, `C#` and `.NET`, and 
+- Back in the day: `PHP`, `Wordpress`, `Laravel`  
