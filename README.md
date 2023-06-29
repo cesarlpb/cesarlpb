@@ -4,7 +4,9 @@
 
 
 <img src="profile.jpeg" width="300" style="margin: 0 auto;">
-[![Linkedin](linkedin.svg)](https://www.linkedin.com/in/cesarlpb89/) [![Github](github.svg)](https://github.com/cesarlpb) 
+
+[![Linkedin](linkedin.svg)](https://www.linkedin.com/in/cesarlpb89/) 
+[![Github](github.svg)](https://github.com/cesarlpb) 
  
 I code in `Typescript`, `NextJS` and like using `MySQL` and `Postgres` for my data. I deploy apps using `Vercel`, `Axiom`, `Planetscale` and `Clerk` or `Web3Auth` for social logins.
 
