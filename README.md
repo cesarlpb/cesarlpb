@@ -60,15 +60,19 @@
   <tr>
     <td colspan="2">
     More tools I use:
-    <br>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"> 
-    <br>
-      <code>Vercel</code> · 
-      <code>Axiom</code> · 
-      <code>Planetscale</code> · 
-      <code>Clerk</code> · 
-      <code>Web3Auth</code>
+    <ul>
+      <li>
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"> 
+      </li>
+      <li>
+        <code>Vercel</code> · 
+        <code>Axiom</code> · 
+        <code>Planetscale</code> · 
+        <code>Clerk</code> · 
+        <code>Web3Auth</code>
+      </li>
+    </ul>
     </td>
   </tr>
 </table>
