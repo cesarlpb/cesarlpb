@@ -13,8 +13,9 @@
     <td style="border:0; width:50%;">
       <ul style="list-style: none;">
         <li style="padding-left:0;">Lately, mostly coding and deploying with 
+        <br>
         <span class="t3">
-          <img src="t3-badge.png" alt="T3 stack" width="100">  
+          <img src="t3-badge.png" alt="T3 stack" width="75">  
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
         </span>
         </li>
