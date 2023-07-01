@@ -46,10 +46,11 @@
     </td>
     <td style="border:0;width:50%;">
       <div>
-        <img src="profile.jpeg" width="450" style="border-radius: 10px;">
+        <img src="profile.jpeg" width="400" style="border-radius: 10px;">
       </div>
       <div style="text-align:center;">
-        Links:<br><br>
+        Links:
+        <br>
         <a style="display:inline-block; margin: 0 auto;" href="https://cesarlpb.github.io/cv"><img src="resume.png" width="100"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
