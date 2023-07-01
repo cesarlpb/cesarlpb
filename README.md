@@ -5,7 +5,10 @@
   <tr style="border:0;">
     <td style="border:0; width:50%;">
       <ul style="list-style: none;">
-        <li style="padding-left:0;">Lately, mostly into <code>T3 stack</code></li>
+        <li style="padding-left:0;">Lately, mostly into the <code style="padding: 5px 10px 5px;border:1px solid #94a3b8;color:#e2e8f0; background: linear-gradient(to right, #2e026d, #15162c);">
+        <img src="t3.svg" height="12">
+        <span style="padding-bottom:5px;">stack</span></code>
+        </li>
         <li style="padding-left:0;">
         Back-end:<br>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"> 
@@ -15,7 +18,7 @@
         <li style="padding-left:0;">
         Front-end:<br>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
-        & 
+        <span style="display:inline-block;margin-bottom: 10px;">& </span>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"> 
         <br>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
