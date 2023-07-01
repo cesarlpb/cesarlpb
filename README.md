@@ -1,13 +1,19 @@
 # About Me 
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
-
+<style>
+.t3 {
+  padding: 5px 10px 5px;border:1px solid #94a3b8;color:#e2e8f0; background: linear-gradient(to right, #2e026d, #15162c);
+}
+</style>
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
       <ul style="list-style: none;">
-        <li style="padding-left:0;">Lately, mostly into the <span style="padding: 5px 10px 5px;border:1px solid #94a3b8;color:#e2e8f0; background: linear-gradient(to right, #2e026d, #15162c);">
-        <img src="t3.svg" height="12">
-        <span style="padding-bottom:5px;">stack</span></span>
+        <li style="padding-left:0;">Lately, mostly into the 
+        <span class="t3">
+          <img src="t3.svg" height="12">
+          <span style="padding-bottom:5px;">stack</span>
+        </span>
         </li>
         <li style="padding-left:0;">
         Back-end:<br>
