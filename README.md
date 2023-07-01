@@ -4,12 +4,13 @@
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
-      <strong>Deployment.</strong> Lately, mostly coding and deploying with 
+      <strong>Deployment.</strong> Lately, mostly coding and deploying 
       <br>
       <span class="t3">
         <img src="t3-badge.png" alt="T3 stack" width="75">  
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       </span>
+      <br>
       <br>
       <strong>Back-end</strong>
       <br>
@@ -18,6 +19,7 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"> 
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
       <br>
+      <br>
       <strong>Front-end</strong>
       <br>
       <br>
@@ -25,14 +27,18 @@
       <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"> 
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
       <br>
+      <br>
       <strong>Databases</strong>
       <br>
       <br>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"><br>
-      But also:<br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+      <br>
+      Also:
+      <br>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <br>
       <br>
       <strong>More tools</strong> More tech I have used and love:
       <br>
