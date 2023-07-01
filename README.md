@@ -4,13 +4,40 @@
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
-      <ul>
-        <li>Lately, mostly into <code>T3 stack</code></li>
-        <li><code>NodeJS</code>, <code>Django</code>, <code>Flask</code> for back-end </li>
-        <li><code>React</code> & <code>Next</code>, <code>Typescript</code> for front-end </li>
-        <li><code>SQL</code> and <code>Postgres</code> for db</li>
-        <li>Also, <code>C#</code> and <code>.NET</code>, and </li>
-        <li>Back in the day: <code>PHP</code>, <code>Wordpress</code>, <code>Laravel</code></li>
+      <ul style="list-style: none;">
+        <li style="padding-left:0;">Lately, mostly into <code>T3 stack</code></li>
+        <li style="padding-left:0;">
+        Back-end:<br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"> 
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"> 
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
+        </li>
+        <li style="padding-left:0;">
+        Front-end:<br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
+        & 
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"> 
+        <br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+        </li>
+        <li style="padding-left:0;">
+        Databases (mostly):<br>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"><br>
+        But also:<br>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"> and
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        </li>
+        <li style="padding-left:0;">More tech I have used and love:
+          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+        </li>
+        <li style="padding-left:0;">
+          And... back in the day:<br>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+          <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+        </li>
       </ul>
     </td>
     <td style="border:0;width:50%;">
