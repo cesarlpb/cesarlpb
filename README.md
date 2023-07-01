@@ -4,33 +4,38 @@
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
-      <h3>Deployment</h3>
-      Lately, mostly coding and deploying with 
+      <strong>Deployment.</strong> Lately, mostly coding and deploying with 
       <br>
       <span class="t3">
         <img src="t3-badge.png" alt="T3 stack" width="75">  
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       </span>
       <br>
-      <h3>Back-end</h3>
+      <strong>Back-end</strong>
+      <br>
       <br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"> 
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"> 
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
-      <h3>Front-end</h3>
+      <br>
+      <strong>Front-end</strong>
+      <br>
       <br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
       <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"> 
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-      <h3>Databases</h3>
+      <br>
+      <strong>Databases</strong>
+      <br>
       <br>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"><br>
       But also:<br>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-      <h3>More tools</h3>
-      More tech I have used and love:
+      <br>
+      <strong>More tools</strong> More tech I have used and love:
+      <br>
       <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -55,14 +60,16 @@
   </tr>
   <tr>
     <td>
-    <h4>Even more tools:</h4>
-    More tools I use regularly:
+    <strong>Even more tools:</strong>More tools I use regularly:
+    <br>
     <br>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"> 
     </td>
     <td>
-      <h4>Also in deployment:</h4>
+      <strong>Also in deployment:</strong>
+      <br>
+      <br>
         <code>Vercel</code> · 
         <code>Axiom</code> · 
         <code>Planetscale</code> · 
