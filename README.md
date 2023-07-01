@@ -34,6 +34,7 @@
       <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+      <br>
       And... back in the day:
       <br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -53,18 +54,20 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
     <h4>Even more tools:</h4>
-    More tools I use:
+    More tools I use regularly:
     <br>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"> 
+    </td>
+    <td>
       <h4>Also in deployment:</h4>
-      <code>Vercel</code> · 
-      <code>Axiom</code> · 
-      <code>Planetscale</code> · 
-      <code>Clerk</code> · 
-      <code>Web3Auth</code>
+        <code>Vercel</code> · 
+        <code>Axiom</code> · 
+        <code>Planetscale</code> · 
+        <code>Clerk</code> · 
+        <code>Web3Auth</code>
     </td>
   </tr>
 </table>
