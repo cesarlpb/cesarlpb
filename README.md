@@ -1,9 +1,9 @@
 # About Me 
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
 
-<table style="width:100%;border:0">
+<table style="width:100%;border:0; margin: 0 auto;">
   <tr>
-    <td>
+    <td style="border:0;">
       <ul>
         <li>Lately, mostly into <code>T3 stack</code></li>
         <li><code>NodeJS</code>, <code>Django</code>, <code>Flask</code> for back-end </li>
@@ -13,7 +13,7 @@
         <li>Back in the day: <code>PHP</code>, <code>Wordpress</code>, <code>Laravel</code></li>
       </ul>
     </td>
-    <td>
+    <td style="border:0;">
       <div>
         <img src="profile.jpeg" width="300" style="border-radius: 10px;">
       </div>
