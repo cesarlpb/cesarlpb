@@ -52,7 +52,9 @@
         Links:
         <br>
         <a style="display:inline-block; margin: 0 auto;" href="https://cesarlpb.github.io/cv"><img src="resume.png" width="100"></a>
+        &nbsp;
         <a style="display:inline-block; margin: 0 auto;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
+        &nbsp;
         <a style="display:inline-block; margin: 0 auto;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
       </div> 
     </td>
