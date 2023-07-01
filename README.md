@@ -50,6 +50,7 @@
         <img src="profile.jpeg" width="450" style="border-radius: 10px;">
       </div>
       <div style="text-align:center;">
+        Links:<br>
         <a style="display:inline-block; margin: 0 auto;" href="https://cesarlpb.github.io/cv"><img src="resume.png" width="100"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
