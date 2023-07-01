@@ -2,8 +2,8 @@
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
 
 <table style="width:100%;border:0; margin: 0 auto;">
-  <tr>
-    <td style="border:0;">
+  <tr style="border:0;">
+    <td style="border:0; width:50%;">
       <ul>
         <li>Lately, mostly into <code>T3 stack</code></li>
         <li><code>NodeJS</code>, <code>Django</code>, <code>Flask</code> for back-end </li>
@@ -13,13 +13,13 @@
         <li>Back in the day: <code>PHP</code>, <code>Wordpress</code>, <code>Laravel</code></li>
       </ul>
     </td>
-    <td style="border:0;">
+    <td style="border:0;width:50%;">
       <div>
         <img src="profile.jpeg" width="300" style="border-radius: 10px;">
       </div>
       <div style="text-align:center;">
-        <a style="display:inline-block; margin: 0 5px;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
-        <a style="display:inline-block; margin: 0 5px;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
+        <a style="display:inline-block; margin: 0 auto;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
+        <a style="display:inline-block; margin: 0 auto;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
       </div> 
     </td>
   </tr>
