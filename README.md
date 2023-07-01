@@ -1,7 +1,7 @@
 # About Me 
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
 
-<table>
+<table style="width:100%;border:0">
   <tr>
     <td>
       <ul>
@@ -15,7 +15,7 @@
     </td>
     <td>
       <div>
-        <img src="profile.jpeg" width="150" style="border-radius: 10px;">
+        <img src="profile.jpeg" width="300" style="border-radius: 10px;">
       </div>
       <div style="text-align:center;">
         <a style="display:inline-block; margin: 0 5px;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
