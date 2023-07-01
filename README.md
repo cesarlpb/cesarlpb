@@ -57,7 +57,21 @@
       </div> 
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+    More tools I use:
+    <br>
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss"> 
+    <br>
+      <code>Vercel</code> · 
+      <code>Axiom</code> · 
+      <code>Planetscale</code> · 
+      <code>Clerk</code> · 
+      <code>Web3Auth</code>
+    </td>
+  </tr>
 </table>
 
-I code in `Typescript`, `NextJS` and like using `MySQL` and `Postgres` for my data. I deploy apps using `Vercel`, `Axiom`, `Planetscale` and `Clerk` or `Web3Auth` for social logins. I also like `React` and `TailwindCSS` for my front-end.
+
 
