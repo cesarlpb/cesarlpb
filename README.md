@@ -2,8 +2,9 @@
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
 
 
-
-<img src="profile.jpeg" width="300" style="margin: 0 auto;">
+<div style="text-align:center; margin-left: auto; margin-right:0; padding: 0;"> 
+  <img src="profile.jpeg" width="150" style="margin: 0 auto; border-radius: 10px;">
+</div>
 
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/cesarlpb89/) 
 [![Github](github.svg)](https://github.com/cesarlpb) 
