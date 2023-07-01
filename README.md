@@ -1,5 +1,5 @@
 # About Me 
-👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
+👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb), here is my [updated resume](https://cesarlpb.github.io/cv).
 <!-- <style>
 .t3 {
   padding: 5px 10px 5px;
@@ -57,6 +57,11 @@
         <img src="profile.jpeg" width="450" style="border-radius: 10px;">
       </div>
       <div style="text-align:center;">
+        <!-- <a style="display: flex; align-items: center; padding: 5px 10px 5px; margin: 0 auto; text-decoration: none; background-color: #0f0f0f; width: 100px;" href="https://www.linkedin.com/in/cesarlpb89/">
+        <img src="https://cesarlpb.github.io/images/c.png" width="24" style="padding: 0; display: inline-block;">
+        <span style="display: inline-block; margin-bottom: 0px; margin-left: 5px;color: white; text-decoration: none; font-style: monospace; font-weight: 500; letter-spacing: 2px;">RESUME</span>
+        </a> -->
+        <a style="display:inline-block; margin: 0 auto;" href="https://cesarlpb.github.io/cv"><img src="resume.png"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://www.linkedin.com/in/cesarlpb89/"><img src="linkedin.svg"></a>
         <a style="display:inline-block; margin: 0 auto;" href="https://github.com/cesarlpb"><img src="github.svg"></a>
       </div> 
