@@ -12,9 +12,10 @@
   <tr style="border:0;">
     <td style="border:0; width:50%;">
       <ul style="list-style: none;">
-        <li style="padding-left:0;">Lately, mostly into the 
+        <li style="padding-left:0;">Lately, mostly coding and deploying with 
         <span class="t3">
-          <img src="t3-banner.png" alt="T3 stack" width="100">  
+          <img src="t3-badge.png" alt="T3 stack" width="100">  
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
         </span>
         </li>
         <li style="padding-left:0;">
@@ -26,7 +27,6 @@
         <li style="padding-left:0;">
         Front-end:<br>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
-        <span style="display:inline-block;margin-bottom: 10px;">& </span>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"> 
         <br>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"><br>
         But also:<br>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"> and
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
         <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
         </li>
         <li style="padding-left:0;">More tech I have used and love:
