@@ -1,18 +1,20 @@
 # About Me 
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb). 
-<style>
+<!-- <style>
 .t3 {
-  padding: 5px 10px 5px;border:1px solid #94a3b8;color:#e2e8f0; background: linear-gradient(to right, #2e026d, #15162c);
+  padding: 5px 10px 5px;
+  border:1px solid #e2e8f0;
+  color:#e2e8f0; 
+  background: linear-gradient(to right, #2e026d, #15162c);
 }
-</style>
+</style> -->
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
       <ul style="list-style: none;">
         <li style="padding-left:0;">Lately, mostly into the 
         <span class="t3">
-          <img src="t3.svg" height="12">
-          <span style="padding-bottom:5px;">stack</span>
+          <img src="t3-banner.png" alt="T3 stack" width="100">  
         </span>
         </li>
         <li style="padding-left:0;">
