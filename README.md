@@ -79,6 +79,7 @@
 </table>
 
 <hr>
-
+|  |  |
+|---|---|
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlpb&theme=blue-green)</td>
 | ![Jokes Card](https://readme-jokes.vercel.app/api) |
