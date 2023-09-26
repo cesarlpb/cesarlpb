@@ -81,5 +81,5 @@
 <hr>
 |  |  |
 |---|---|
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlpb&theme=blue-green)</td>
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlpb&theme=blue-green)
 | ![Jokes Card](https://readme-jokes.vercel.app/api) |
