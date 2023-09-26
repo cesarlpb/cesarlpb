@@ -80,7 +80,12 @@
 
 <hr>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlpb&theme=blue-green)
+<table>
+  <tr>
+  <td>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlpb&theme=blue-green)</td>
+  <td>![Jokes Card](https://readme-jokes.vercel.app/api)</td>
+  </tr>
+</table>
 
 
 
