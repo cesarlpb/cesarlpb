@@ -1,6 +1,10 @@
 # About Me 
 👋 Hi, I’m Cesar, you may find me as [@cesarlpb](https://github.com/cesarlpb), here is my [updated resume](https://cesarlpb.github.io/cv).
 
+👉 Comunidad para aprender en español: [Servidor en Discord](https://discord.gg/mkw2H36c)
+
+---
+
 <table style="width:100%;border:0; margin: 0 auto;">
   <tr style="border:0;">
     <td style="border:0; width:50%;">
