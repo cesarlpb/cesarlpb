@@ -12,7 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cesarlpb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=discussions_started,discussions_answered&show=issues,reviews,prs_merged,prs_merged_percentage" height="250" alt="Cesarlpb's stats"  />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Backend%20Most%20Used%20Langs:&layout=pie&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=scss,html,css,vue,xslt,javascript,less,handlebars,ejs" height="300" alt="Backend Languages"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Frontend%20Most%20Used%20Langs:&layout=pie&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=C#,python" height="300" alt="Frontend Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Frontend%20Most%20Used%20Langs:&layout=pie&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=python,C#" height="300" alt="Frontend Languages"  />
+
 </div>
 
 ###
