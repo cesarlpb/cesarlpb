@@ -9,10 +9,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarlpb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=issues,discussions_started,discussions_answered&show=reviews,prs_merged,prs_merged_percentage" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarlpb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=discussions_started,discussions_answered&show=issues,reviews,prs_merged,prs_merged_percentage" height="200" alt="stats graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Backend%20Most%20Used%20Langs:&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=scss,html,css,vue,xslt,javascript,less,handlebars" height="125" alt="Backend Most Used Langs"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Frontend%20Most%20Used%20Langs:&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=C#,python" height="125" alt="Frontend Most Used Langs"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Backend%20Most%20Used%20Langs:&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=scss,html,css,vue,xslt,javascript,less,handlebars" height="100" alt="Backend Most Used Langs"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Frontend%20Most%20Used%20Langs:&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=3&theme=dracula&hide_border=false&hide=C#,python" height="100" alt="Frontend Most Used Langs"  />
 </div>
 
 ###
