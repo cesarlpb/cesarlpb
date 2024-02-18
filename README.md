@@ -1,4 +1,4 @@
-<h2 align="left"><pre>Hello, world! 🤖</pre> My name is César and I'm a <code>problem solver</code>, from Perú.</h2>
+<h2 align="left"><pre>Hello, world! 🤖</pre> My name is César and I'm a <code>problem solver</code>, from Perú 🇵🇪</h2>
 
 <h3 align="center">Theoretical Phycisist turned into full-stack dev.</h3>
 
