@@ -38,9 +38,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/cesarlpb89/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
-  </a><a href="https://www.youtube.com/@dev_time" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@dev_time" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube logo"  />
-  </a><a href="https://t.me/Cesarlpb" target="_blank">
+  </a>
+  <a href="https://t.me/Cesarlpb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo"  />
   </a>
 </div>
