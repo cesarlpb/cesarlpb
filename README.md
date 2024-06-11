@@ -1,6 +1,10 @@
-<h2 align="left"><pre>Hello, world! 🤖</pre> My name is César and I'm a <code>problem solver</code>, from Perú 🇵🇪</h2>
+<h2 align="left"><pre>Hello, y'all! 🤖</pre> My name is César, <code>holistic dev</code> and a <code>problem solver</code>, from Perú 🇵🇪</h2>
+
+<blockquote>“A true master is an eternal student” - Master Yi</blockquote>
 
 <h3 align="center">Theoretical Phycisist turned into full-stack dev.</h3>
+
+![image](https://github.com/cesarlpb/cesarlpb/assets/25636436/dd2f9b27-0c4d-4c57-b262-9bd7ebad0fdb)
 
 <h5 align="right">I use <code>Vim</code>, <code>Arch</code>, <code>Rust</code> · <u>btw</u> · <u>btw</u> · <u>btw</u>.</h5>
 
