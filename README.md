@@ -4,7 +4,7 @@
 
 <h3 align="center">Theoretical Phycisist turned into full-stack dev.</h3>
 
-![image](https://github.com/cesarlpb/cesarlpb/assets/25636436/dd2f9b27-0c4d-4c57-b262-9bd7ebad0fdb)
+<img align="center" src="https://github.com/cesarlpb/cesarlpb/assets/25636436/dd2f9b27-0c4d-4c57-b262-9bd7ebad0fdb" width=100 height=100>
 
 <h5 align="right">I use <code>Vim</code>, <code>Arch</code>, <code>Rust</code> · <u>btw</u> · <u>btw</u> · <u>btw</u>.</h5>
 
