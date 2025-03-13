@@ -8,7 +8,7 @@
   <img align="center" src="https://github.com/cesarlpb/cesarlpb/assets/25636436/dd2f9b27-0c4d-4c57-b262-9bd7ebad0fdb" width=200 height=200>
 </div>
 
-<h5 align="right">I use <code>Vim</code>, <code>Arch</code>, <code>Rust</code> · <u>btw</u> · <u>btw</u> · <u>btw</u>.</h5>
+<h5 align="right">I use (<code>Neovim</code>, (<code>Arch</code>, (<code>Rust</code> · <u>btw</u>) · <u>btw</u>) · <u>btw</u>).</h5>
 
 <hr>
 
@@ -65,7 +65,7 @@
 
 ## More About Me: 
 
-You may find me as [@cesarlpb](https://github.com/cesarlpb), here is my updated [🇬🇧 CV English](https://cesarlpb.github.io/cv) | [🇪🇸 CV Español](https://cesarlpb.github.io/cv?lang=es).
+You may find me as [@cesarlpb](https://github.com/cesarlpb), here is my updated [🇬🇧 CV English](https://cesarlpb.github.io/cv?lang=en) | [🇪🇸 CV Español](https://cesarlpb.github.io/cv?lang=es).
 
 
 👉 Comunidad para aprender en español: [Servidor en Discord](https://discord.gg/mkw2H36c)
