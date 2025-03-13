@@ -15,6 +15,7 @@
 ###
 
 <div align="center">
+<h3 align="center">My stats</h3>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=cesarlpb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=discussions_started,discussions_answered&show=reviews,prs_merged,prs_merged_percentage,total_commits"  /> -->
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarlpb&locale=en&hide_title=false&custom_title=Backend%20Most%20Used%20Langs:&layout=pie&size_weight=0.5&count_weight=0.5&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=scss,html,css,vue,xslt,javascript,less,handlebars,ejs" height="300" alt="Backend Languages"  />
@@ -69,7 +70,7 @@
 You may find me as [@cesarlpb](https://github.com/cesarlpb), here is my updated [🇬🇧 CV English](https://cesarlpb.github.io/cv?lang=en) | [🇪🇸 CV Español](https://cesarlpb.github.io/cv?lang=es).
 
 
-👉 Comunidad para aprender en español: [Servidor en Discord](https://discord.gg/mkw2H36c)
+👉 Comunidad para aprender en español 🇪🇸: [Servidor en Discord](https://discord.gg/mkw2H36c)
 
 ---
 
