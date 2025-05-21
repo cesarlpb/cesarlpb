@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Telegram logo"  />
   </a>
   <a href="https://cesarlpb.github.io/cv?lang=en" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=CV%20🇬🇧&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="CV"  />
+  <img src="https://img.shields.io/static/v1?message=CV%20EN&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="CV"  />
   </a>
   <a href="https://cesarlpb.github.io/cv?lang=es" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=CV%20🇪🇸&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="CV"  />
+  <img src="https://img.shields.io/static/v1?message=CV%20ES&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="CV"  />
   </a>
 </div>
 
