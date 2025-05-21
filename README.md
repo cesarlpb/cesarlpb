@@ -33,6 +33,9 @@
 </div>
 
 <div align="center">
-  <img width="300" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img width="300" src="https://raw.githubusercontent.com/cesarlpb/cesarlpb/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img width="300" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
