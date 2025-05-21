@@ -3,9 +3,9 @@
 > A true master is an eternal student - Master Yi
 
 - My stack:
-  - **Backend:** ![Python logo](./svg/python.svg) `Python` · ![Django logo](./svg/django.svg) `Django` | ![Typescript logo](./svg/typescript.svg) `Typescript` · ![Node JS logo](./svg/node-js.svg) `Node`
-  - **Frontend:** ![React logo](./svg/react.svg) React · ![Astro logo](./svg/astro.svg) Astro · ![Hugo logo](./svg/hugo.svg) Hugo
-  - **Config:** ![Kitty logo](./svg/kitty.svg) Kitty · ![Neovim logo](./svg/neovim.svg) Neovim · ![VS Code](./svg/vs-code.svg) VS Code · ![Windsurf logo](./svg/windsurf.svg) Windsurf
+  - **Backend:** ![Python logo](./svg/python.svg) `Python` · ![Django logo](./svg/django.svg) `Django` · ![Typescript logo](./svg/typescript.svg) `Typescript` · ![Node JS logo](./svg/node-js.svg) `Node`
+  - **Frontend:** ![React logo](./svg/react.svg) `React` · ![Astro logo](./svg/astro.svg) `Astro` · ![Hugo logo](./svg/hugo.svg) `Hugo`
+  - **Config:** ![Kitty logo](./svg/kitty.svg) `Kitty` · ![Neovim logo](./svg/neovim.svg) `Neovim` · ![VS Code](./svg/vs-code.svg) `VS Code` · ![Windsurf logo](./svg/windsurf.svg) `Windsurf`
 
 <hr>
 
@@ -27,18 +27,17 @@
   <a href="https://t.me/Cesarlpb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Telegram logo"  />
   </a>
+  <a href="https://cesarlpb.github.io/cv?lang=en" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CV%20🇬🇧&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="Linkedin logo"  />
+  </a>
+  <a href="https://cesarlpb.github.io/cv?lang=es" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CV%20🇪🇸&logo=&label=&color=9ca3af&logoColor=white&labelColor=&style=for-the-badge" height=24" alt="Linkedin logo"  />
+  </a>
 </div>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/cesarlpb/cesarlpb/output/snake.svg" alt="Snake animation" />
-
-###
-
-## Resume: 
-
-- [CV 🇬🇧](https://cesarlpb.github.io/cv?lang=en) 
-- [CV 🇪🇸](https://cesarlpb.github.io/cv?lang=es)
 
 
 ---
